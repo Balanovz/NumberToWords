@@ -1,0 +1,6 @@
+D:\изучение c#\academy cifra\final task\NumberToWords\NumberToWords\NumberToWords\bin\Debug\NumberToWords.dll
+D:\изучение c#\academy cifra\final task\NumberToWords\NumberToWords\NumberToWords\bin\Debug\NumberToWords.pdb
+D:\изучение c#\academy cifra\final task\NumberToWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.csproj.AssemblyReference.cache
+D:\изучение c#\academy cifra\final task\NumberToWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.csproj.CoreCompileInputs.cache
+D:\изучение c#\academy cifra\final task\NumberToWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.dll
+D:\изучение c#\academy cifra\final task\NumberToWords\NumberToWords\NumberToWords\obj\Debug\NumberToWords.pdb
